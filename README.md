@@ -4,12 +4,6 @@
 
 ### Full-Stack • Cloud • Systems
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Google+Associate+Cloud+Engineer;Building+on+AWS%2C+Next.js+%26+Docker;VIT-AP+CSE+%E2%80%A2+CGPA+9.07)](https://github.com/Chidanandareddyj)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-58A6FF?style=for-the-badge&logo=vercel)](chidanandareddy.tech)
-
-[![X](https://img.shields.io/badge/X-Chidanandaj17-000000?style=for-the-badge&logo=x)](https://x.com/jlcreddy17)
-
 </div>
 
 ---
@@ -25,6 +19,15 @@ Currently looking for a **paid remote internship** in cloud / full-stack.
 - 📈 Built an options engine on live **Upstox** chains
 - 🛠️ Publish tools, not just demos — CLI, APIs, and live sites
 
+## Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,python,cpp,nodejs,express,fastapi,tailwind" alt="Languages and frameworks" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,nginx,git,github,githubactions,vercel" alt="Cloud and DevOps" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,supabase,postman,vscode,cursor" alt="Data and tools" />
+</div>
 ---
 
 ## GitHub Stats
@@ -83,15 +86,6 @@ Currently looking for a **paid remote internship** in cloud / full-stack.
 
 ---
 
-## Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,nginx,git,github,githubactions,vercel" alt="Cloud and DevOps" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,nodejs,express,fastapi,nextjs,react,tailwind" alt="Languages and frameworks" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,supabase,postman,vscode" alt="Data and tools" />
-</div>
 
 **App layer:** Next.js · React · Node.js · Express · FastAPI · Prisma · PostgreSQL
 **Languages:** TypeScript · JavaScript · Python · C/C++ · SQL  
