@@ -6,9 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Google+Associate+Cloud+Engineer;Building+on+AWS%2C+Next.js+%26+Docker;VIT-AP+CSE+%E2%80%A2+CGPA+9.07)](https://github.com/Chidanandareddyj)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Chidanandareddyj-181717?style=for-the-badge&logo=github)](https://github.com/Chidanandareddyj)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-58A6FF?style=for-the-badge&logo=vercel)](https://portfolio-nine-amber-z8urzehn15.vercel.app)
-[![Email](https://img.shields.io/badge/Email-chidanandareddyjonnala%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chidanandareddyjonnala@gmail.com)
+
 [![X](https://img.shields.io/badge/X-Chidanandaj17-000000?style=for-the-badge&logo=x)](https://x.com/Chidanandaj17)
 
 </div>
@@ -17,7 +16,7 @@
 
 ## About
 
-CS undergrad at **VIT-AP** (B.Tech, expected Jun 2027) and **Google Associate Cloud Engineer**. I ship production-shaped products: AWS-backed CMS work, Dockerized Python pipelines, and Next.js apps that talk to live market data.
+CS undergradI ship production-shaped products: AWS-backed CMS work, Dockerized Python pipelines, and Next.js apps.
 
 Currently looking for a **paid remote internship** in cloud / full-stack.
 
@@ -76,7 +75,7 @@ Currently looking for a **paid remote internship** in cloud / full-stack.
 
 ## Experience
 
-**Full Stack Developer Intern** · VIT-AP · Apr 2025 – Jun 2026
+**Full Stack Developer Intern**  · Apr 2025 – Jun 2026
 - Redeveloped the university site: +30% engagement, +18% conversions, −12% bounce
 - Ran Strapi CMS on AWS EC2 with RDS PostgreSQL, S3 media, and IAM roles
 - Standardized content collections → −40% retrieval time, 99.9% uptime during publishes
@@ -102,21 +101,13 @@ Currently looking for a **paid remote internship** in cloud / full-stack.
 **Languages:** TypeScript · JavaScript · Python · C/C++ · SQL  
 **App layer:** Next.js · React · Node.js · Express · FastAPI · Prisma · PostgreSQL
 
-**Certifications:** [Google Associate Cloud Engineer](https://cloud.google.com/learn/certification/cloud-engineer) · Jun 2026
-
----
-
-## Education
-
-**Vellore Institute of Technology – AP** · B.Tech Computer Science · CGPA **9.07** · Expected Jun 2027
-
 ---
 
 <div align="center">
 
 **Open to internships** — cloud, backend, or full-stack · remote or India
 
-[Email](mailto:chidanandareddyjonnala@gmail.com) · [Portfolio](https://portfolio-nine-amber-z8urzehn15.vercel.app) · [GitHub](https://github.com/Chidanandareddyj)
+[Email](mailto:chidanandareddyjonnala@gmail.com) · [Portfolio](chidanandareddy.tech) · [GitHub](https://github.com/Chidanandareddyj)
 
 <img src="https://komarev.com/ghpvc/?username=Chidanandareddyj&style=flat-square&color=58a6ff&label=profile+views" alt="Profile views" />
 
