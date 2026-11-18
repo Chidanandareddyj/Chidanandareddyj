@@ -2,13 +2,13 @@
 
 # Chidananda Reddy Jonnala
 
-### Cloud • Full-Stack • Systems
+### Full-Stack • Cloud • Systems
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Google+Associate+Cloud+Engineer;Building+on+AWS%2C+Next.js+%26+Docker;VIT-AP+CSE+%E2%80%A2+CGPA+9.07)](https://github.com/Chidanandareddyj)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-58A6FF?style=for-the-badge&logo=vercel)](https://portfolio-nine-amber-z8urzehn15.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-58A6FF?style=for-the-badge&logo=vercel)](chidanandareddy.tech)
 
-[![X](https://img.shields.io/badge/X-Chidanandaj17-000000?style=for-the-badge&logo=x)](https://x.com/Chidanandaj17)
+[![X](https://img.shields.io/badge/X-Chidanandaj17-000000?style=for-the-badge&logo=x)](https://x.com/jlcreddy17)
 
 </div>
 
@@ -59,9 +59,6 @@ Currently looking for a **paid remote internship** in cloud / full-stack.
   <a href="https://github.com/Chidanandareddyj/featurereview">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chidanandareddyj&repo=featurereview&theme=tokyonight&hide_border=true" alt="Feature Review" />
   </a>
-  <a href="https://github.com/Chidanandareddyj/ai-jobs-india">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chidanandareddyj&repo=ai-jobs-india&theme=tokyonight&hide_border=true" alt="AI Jobs India" />
-  </a>
 </div>
 
 | Project | What it does | Stack | Links |
@@ -96,10 +93,10 @@ Currently looking for a **paid remote internship** in cloud / full-stack.
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,supabase,postman,vscode" alt="Data and tools" />
 </div>
 
+**App layer:** Next.js · React · Node.js · Express · FastAPI · Prisma · PostgreSQL
+**Languages:** TypeScript · JavaScript · Python · C/C++ · SQL  
 **Cloud:** AWS (EC2, RDS, S3, IAM) · GCP · Vercel · Supabase · Neon  
 **DevOps:** Docker · Docker Compose · GitHub · Linux  
-**Languages:** TypeScript · JavaScript · Python · C/C++ · SQL  
-**App layer:** Next.js · React · Node.js · Express · FastAPI · Prisma · PostgreSQL
 
 ---
 
